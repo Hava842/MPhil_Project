@@ -2,3 +2,5 @@ code/DeepGPs/DeepGPs.sln
 code/DeepGPs/DeepGPs.pyproj
 *.suo
 *.pyc
+*.jpg
+*.eps
